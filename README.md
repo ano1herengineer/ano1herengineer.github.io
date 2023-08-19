@@ -1,6 +1,6 @@
 # Prashant Singh - Personal Website
 
-![Prashant Singh Personal Website](https://github.com/ano1herengineer/ano1herengineer.github.io/blob/main/assets/images/website-preview.png)
+![Prashant Singh Personal Website](https://ano1herengineer.github.io/)
 
 Welcome to the repository for my personal website! This website serves as a showcase of my work, skills, and aspirations in the field of web development. Feel free to explore the code and content that powers my online presence.
 
@@ -33,7 +33,7 @@ This website is a reflection of my journey as a Front End Developer. It's built 
 
 ## Preview
 
-![Website Preview](https://github.com/ano1herengineer/ano1herengineer.github.io/blob/main/assets/images/website-preview.png)
+![Website Preview](https://ano1herengineer.github.io/)
 
 You can also visit the live website at [ano1herengineer.github.io](https://ano1herengineer.github.io/).
 
