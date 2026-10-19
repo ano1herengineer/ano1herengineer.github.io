@@ -1,0 +1,3 @@
+/* Keep the SAP Logon form exclusive to the landing view. */
+.login-view{display:none!important}
+.login-view.active-view{display:block!important}
